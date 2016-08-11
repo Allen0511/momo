@@ -5,6 +5,21 @@
 //  Created by 有为iOS on 15/9/8.
 //  Copyright (c) 2015年 有为iOS. All rights reserved.
 //fang
+/**
+ *  11
+ *
+ *  @param AppDelegate <#AppDelegate description#>
+ *
+ *  @return <#return value description#>
+ */
+
+/**
+ *  2
+ *
+ *  @param AppDelegate <#AppDelegate description#>
+ *
+ *  @return <#return value description#>
+ */
 
 #import "AppDelegate.h"
 #import "UMSocial.h"
